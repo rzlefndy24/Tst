@@ -8,7 +8,6 @@
     "start": "next start"
   },
   "dependencies": {
-    "@consensys/linea-sdk": "^0.0.16",
     "ethers": "^6.10.0",
     "next": "14.2.3",
     "react": "18.2.0",
